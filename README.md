@@ -1,4 +1,4 @@
-# Verifiable Logistic Regression 
+# Verifiable Logistic Regression in Cairo
 
 This is a submission for the ETHToronto hackathon (2023).
 
